@@ -128,7 +128,7 @@ class _HomeScreenDesktop extends StatelessWidget{
   }
   Widget CardUser(BuildContext context, int index){
     return Container(
-      height: 51,
+      height: 50,
       child: Row(
         children: [
           CircleAvatar(
